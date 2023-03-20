@@ -1,5 +1,9 @@
 # backend
 
+### `npm install`
+
+and then,
+
 ### `npm run server`
 
 Runs the server in the development mode.
